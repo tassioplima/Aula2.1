@@ -1,6 +1,6 @@
 # Aula2.1
 
-Reposotório da aula de Devops
+Repositório da aula de Devops
 
 Bill Skarsgard
 
