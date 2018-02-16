@@ -2,5 +2,6 @@
 Reposotório da aula de Devops
 
 Bill Skarsgard
-Ben Affleck
+Tom Cruise
 Ryan Reynalds
+Keanu Reeves
